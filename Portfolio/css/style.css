@@ -1,0 +1,64 @@
+html {
+    font-family: "Open Sans", arial, sans-serif;
+}
+
+.img-icon {
+    width: 100%;
+    height: auto;
+    max-width: 79px;
+}
+
+.title-name {
+    margin-top: 0;
+}
+
+.title-job {
+    font-size: 1em;
+}
+
+.divider {
+    height: 0.3em;
+    background: #e6e6e6;
+    width: calc(100% - 30px);
+    margin: 10px 0 10px 15px;
+
+}
+
+.img-banner {
+    margin-right: 0;
+    margin-left: 0;
+}
+
+.worked-title {
+    color: #7d97ad;
+    font-size: 1.5em;
+}
+
+.worked-icon {
+    width: 100%;
+    max-width: 144px;
+    height: auto;
+}
+
+.worked-url {
+    color: #7d97ad;
+}
+
+.worked-url-text {
+    word-wrap: break-word;
+    word-break: break-all;
+    font-size: 0.6em;
+
+}
+
+.margin-top10px {
+    margin-top: 10px;
+}
+
+.margin-bottom20px{
+    margin-bottom: 20px;
+}
+
+* {
+    box-sizing: border-box;
+}
